@@ -1,0 +1,25 @@
+{
+  "name": "filmease",
+  "displayName": "FilmEase",
+  "version": "0.2.0",
+  "description": "Discover grounded, streamable movie recommendations and manage your FilmEase watchlist, ratings, reviews, history, taste, and streaming preferences.",
+  "author": {
+    "name": "Filmease LLC",
+    "email": "info@filmease.net",
+    "url": "https://www.filmease.net"
+  },
+  "homepage": "https://www.filmease.net/support",
+  "repository": "https://github.com/Filmease/filmease-claude-plugin",
+  "keywords": [
+    "movies",
+    "recommendations",
+    "streaming",
+    "watchlist",
+    "ratings"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.filmease.net/support",
+  "supportUrl": "https://www.filmease.net/support",
+  "privacyPolicyUrl": "https://www.filmease.net/privacy",
+  "termsOfServiceUrl": "https://www.filmease.net/terms"
+}

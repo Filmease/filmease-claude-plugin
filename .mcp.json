@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "filmease": {
+      "type": "http",
+      "url": "https://filmease-mcp.fancy-fire-1eba.workers.dev/mcp"
+    }
+  }
+}
