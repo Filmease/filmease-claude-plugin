@@ -62,3 +62,6 @@ lives at `.codex-plugin/plugin.json`. Both packages reuse `.mcp.json`, the skill
 and the assets in this directory. Refresh or reconnect the MCP connection after
 server deployments, and reinstall the plugin when testing a new manifest,
 skill, or bundled asset version.
+
+The Claude Directory submission record, validation notes, and update runbook
+are in [`docs/CLAUDE_DIRECTORY_SUBMISSION.md`](docs/CLAUDE_DIRECTORY_SUBMISSION.md).
